@@ -1,0 +1,47 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 70px;
+}
+
+img {
+  max-width: 50%;
+  height:auto;
+}
+
+.project {
+  margin-bottom: 100px;
+}
+
+.project img {
+  width: 70%;
+  height: 350px;
+  object-fit: cover;
+}
+
+footer {
+  background-color: #f0f0f0;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
